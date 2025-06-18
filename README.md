@@ -180,3 +180,27 @@ sudo chmod o+x /home /home/$USER /home/$USER/tdlib-data
 echo "✔️ Telegram Bot API iniciado na porta $PORT_API"
 echo "✔️ Nginx servindo arquivos em: http://<IP>:${PORT_NGINX}/files/videos/file_X.MP4"
 echo "⚠️ Lembre-se de trocar USER,API_ID, API_HASH no script"
+```
+</details>
+
+## Example Flow in Make (Integromat)
+![Big Picture 1](assets/Make_Big_Picture_1.png)
+![Big Picture 2](assets/Make_Big_Picture_2.png)
+![Make_register_media_Ids_flow](assets/Make_register_media_Ids_flow.png)
+![Make_recieve_and_translate_audio](assets/Make_recieve_and_translate_audio.png)
+![Make_All_structure_of_editing_video_for_audio](assets/Make_All_structure_for_editing_video_for_audio.png)
+![Make_All_structure_of_editing_images_for_audio](assets/Make_All_structure_of_editing_images_for_audio.png)
+![Make_All_structure_of_editing_images_for_text](assets/Make_All_structure_for_editing_images_for_text.png)
+![Make_All_structure_of_editing_video_for_text](assets/Make_All_structure_for_editing_video_for_text.png)
+
+## Example Inputs on Telegram
+![Input_Telegram_with_Audio](assets/Input_Telegram_with_Audio.png)
+![Input_Telegram_with_Text](assets/Input_Telegram_with_Text.PNG)
+
+## Example Output on Telegram with Audio
+![Output_Telegram_with_Audio](assets/Output_Telegram_with_Audio.png)
+
+
+## Example Output on Telegram with Text
+![Output_with_Text](assets/Output_with_Text.PNG)
+![Output_with_Text_Video](assets/Output_with_Text_Video.PNG)

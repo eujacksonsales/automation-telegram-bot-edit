@@ -183,4 +183,4 @@ echo "⚠️ Remember to replace USER, API_ID, and API_HASH in the script"
 </details>
 
 ## Example Flow in Make (Integromat)
-![Big Picture 1](.assets/Make_Big_Picture_2.png)
+![Big Picture 1](assets/Make_Big_Picture_2.png)

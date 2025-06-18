@@ -179,3 +179,8 @@ sudo chmod o+x /home /home/$USER /home/$USER/tdlib-data
 echo "✔️ Telegram Bot API started on port $PORT_API"
 echo "✔️ Nginx serving files at: http://<IP>:${PORT_NGINX}/files/videos/file_X.MP4"
 echo "⚠️ Remember to replace USER, API_ID, and API_HASH in the script"
+```
+</details>
+
+## Example Flow in Make (Integromat)
+![Big Picture 1](.assets/Make_Big_Picture_2.png)
